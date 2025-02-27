@@ -176,7 +176,7 @@ sudo nano /etc/xrdp/startwm.sh
 
 then uncomment the lines by seeing the screen shot below by adding a **HASH** tag at the beginning of each statement, Then at the bottom a statement to **startxfce4**
 
-![](https://kskroyal.com/wp-content/uploads/2024/05/WM--1024x426.jpg)
+![](https://github.com/AmmarKamoona/Run-Ubuntu-24.04-on-Windows-11-with-GUI-using-WSL/blob/main/img/WM--1024x426.webp)
 
 **Then save the changes with CTRL + O and CTRL + X to exit.**
 

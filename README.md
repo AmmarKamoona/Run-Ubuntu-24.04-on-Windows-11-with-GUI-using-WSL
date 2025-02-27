@@ -16,7 +16,7 @@ Look for **Intel VT-d, AMD-V, or SVM** features and activate them. Verify the st
 **Step 3: Install WSL Feature**
 -------------------------------
 
-![](img/Turn-Windows-Features-On-Or-OFF-1024x796.webp)
+![](https://github.com/AmmarKamoona/Run-Ubuntu-24.04-on-Windows-11-with-GUI-using-WSL/blob/main/img/Turn-Windows-Features-On-Or-OFF-1160x902.webp)
 
 1.  Open the search bar, type “**Turn Windows features on or off**”, and select it.
 2.  Enable the “Virtual Machine Platform” and “**Windows Subsystem for Linux**” options.

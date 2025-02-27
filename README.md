@@ -16,7 +16,7 @@ Look for **Intel VT-d, AMD-V, or SVM** features and activate them. Verify the st
 **Step 3: Install WSL Feature**
 -------------------------------
 
-![](https://kskroyal.com/wp-content/uploads/2024/05/Turn-Windows-Features-On-Or-OFF-1024x796.jpg)
+![](img/Turn-Windows-Features-On-Or-OFF-1024x796.webp)
 
 1.  Open the search bar, type “**Turn Windows features on or off**”, and select it.
 2.  Enable the “Virtual Machine Platform” and “**Windows Subsystem for Linux**” options.

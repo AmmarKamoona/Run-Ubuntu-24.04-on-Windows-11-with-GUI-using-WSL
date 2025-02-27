@@ -49,7 +49,7 @@ wsl --list --online
 ```
 
 
-![](https://kskroyal.com/wp-content/uploads/2024/05/WSL-Online-1024x510.jpg)
+![](https://github.com/AmmarKamoona/Run-Ubuntu-24.04-on-Windows-11-with-GUI-using-WSL/blob/main/img/WSL-Online-1024x510.webp)
 
 2\. Install Ubuntu 24.04 LTS by typing:
 
